@@ -61,6 +61,41 @@ Open the `.pbix` file in Power BI Desktop to explore the dashboard.
 - Credentials and passwords must never be committed to GitHub.
 - Follow the relevant website's terms when collecting data.
 
+- ## Project Screenshots
+
+### 1. Clean and Load Dataset
+![Clean and Load Dataset](screenshots/clean_and_load_dataset.png)
+
+### 2. Email Automation
+![Email Automation](screenshots/email_automation.png)
+
+### 3. Email Violation Message
+![Email Violation Message](screenshots/email_violation_msgs.png)
+
+### 4. MAP/LPP Power BI Dashboard
+![MAP/LPP Dashboard](screenshots/map_lpp_dashboard.png)
+
+### 5. Python Data Loading
+![Python Data Loading](screenshots/python_load_dataset.png)
+
+### 6. Seller and Product Analysis
+![Seller and Product Analysis](screenshots/seller_product_analysis.png)
+
+### 7. Sending 10 Demo Violation Emails
+![Sending Demo Emails](screenshots/sending_10_demo_violation_email.png)
+
+### 8. SQL Analysis
+![SQL Analysis](screenshots/sql_analysis.png)
+
+### 9. Violation Word File Attachment
+![Violation Word File](screenshots/violation_word_file_attachment.png)
+
+### 10. Web Scraping
+![Web Scraping](screenshots/web_scrapping.png)
+
+### 11. Web Scraping Dataset
+![Web Scraping Dataset](screenshots/web_scrapping_dataset.png)
+
 ## Author
 Sreeram
 
