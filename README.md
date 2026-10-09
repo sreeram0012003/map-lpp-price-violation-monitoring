@@ -70,7 +70,7 @@ Open the `.pbix` file in Power BI Desktop to explore the dashboard.
 ![Email Automation](screenshots/email_automation.png)
 
 ### 3. Email Violation Message
-![Email Violation Message](screenshots/email_violation_msgs.png)
+![Email Violation Message](screenshots/email_violation_mgs.png)
 
 ### 4. MAP/LPP Power BI Dashboard
 ![MAP/LPP Dashboard](screenshots/map_lpp_dashboard.png)
